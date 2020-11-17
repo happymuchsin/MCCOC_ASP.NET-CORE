@@ -1,0 +1,6 @@
+- Simple Admin with ElaAdmin Template
+- Chart Dashboard
+- CRUD Popup
+- SweetAlert2 Validation
+- RESTful API
+- ASP.Net Core

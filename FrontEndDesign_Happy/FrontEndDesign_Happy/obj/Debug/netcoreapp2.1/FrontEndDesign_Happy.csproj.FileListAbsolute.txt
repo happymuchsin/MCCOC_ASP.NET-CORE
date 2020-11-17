@@ -1,0 +1,17 @@
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\bin\Debug\netcoreapp2.1\FrontEndDesign_Happy.deps.json
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\bin\Debug\netcoreapp2.1\FrontEndDesign_Happy.runtimeconfig.json
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\bin\Debug\netcoreapp2.1\FrontEndDesign_Happy.runtimeconfig.dev.json
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\bin\Debug\netcoreapp2.1\FrontEndDesign_Happy.dll
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\bin\Debug\netcoreapp2.1\FrontEndDesign_Happy.pdb
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.csprojAssemblyReference.cache
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.AssemblyInfoInputs.cache
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.AssemblyInfo.cs
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.csproj.CoreCompileInputs.cache
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.RazorAssemblyInfo.cache
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.RazorAssemblyInfo.cs
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.RazorTargetAssemblyInfo.cache
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.dll
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.pdb
+D:\Metrodata BootCamp\EXERCISE WEEK 7 Web Template\FrontEndDesign_Happy\FrontEndDesign_Happy\obj\Debug\netcoreapp2.1\FrontEndDesign_Happy.genruntimeconfig.cache

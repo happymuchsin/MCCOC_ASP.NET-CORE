@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndDesign_Happy", "FrontEndDesign_Happy\FrontEndDesign_Happy.csproj", "{3AB16259-3E62-4B6D-AEC1-0AE8414FD868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Happy", "Web_Happy\Web_Happy.csproj", "{EADC01DE-15AF-4FDC-9DA5-221878617D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB16259-3E62-4B6D-AEC1-0AE8414FD868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB16259-3E62-4B6D-AEC1-0AE8414FD868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB16259-3E62-4B6D-AEC1-0AE8414FD868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB16259-3E62-4B6D-AEC1-0AE8414FD868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADC01DE-15AF-4FDC-9DA5-221878617D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADC01DE-15AF-4FDC-9DA5-221878617D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADC01DE-15AF-4FDC-9DA5-221878617D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADC01DE-15AF-4FDC-9DA5-221878617D16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43093705-2090-4CCF-97E6-B072A8871B5B}
+	EndGlobalSection
+EndGlobal
